@@ -2,7 +2,7 @@
 
 # 👽⭐👿 Python Language
 [Jump to Python 점프투파이썬](https://wikidocs.net/book/1)
-**dhkwjr**
+**Python**
 |#|Sessions|Keywords|
 |:--:|:--:|:--:|
 |1|code cells🐾|[variable,assign](https://github.com/20230212KIM/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|

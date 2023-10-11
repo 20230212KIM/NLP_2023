@@ -25,4 +25,4 @@
 |1|Code Cells🐾|[variable, assign](https://github.com/20230212KIM/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
 |2|Five Types of Data📋|[number,string,list,tuple,dictionary](https://github.com/20230212KIM/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 |3|Indexing&Slicing📌✂️|[:,0,-1,link+,repeat*,,length len](https://github.com/20230212KIM/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
-|4| Statement |[if~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_1_IfStatement.ipynb)[else~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_2_ForStatement.ipynb)[try~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb)[while~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb||
+|4| Statement |[if~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_1_IfStatement.ipynb)[else~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_2_ForStatement.ipynb)[try~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb)[while~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|

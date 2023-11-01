@@ -26,3 +26,7 @@
 |2|Five Types of Data📋|[number,string,list,tuple,dictionary](https://github.com/20230212KIM/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 |3|Indexing&Slicing📌✂️|[:,0,-1,link+,repeat*,,length len](https://github.com/20230212KIM/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
 |4| Statement 💡|[if~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_1_IfStatement.ipynb)[else~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_2_ForStatement.ipynb)[try~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb)[while~:](https://github.com/20230212KIM/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|
+|5| Regular |[re,meta characters](https://github.com/20230212KIM/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb)|
+|6| Functions ⌛ |[function, factor](https://github.com/20230212KIM/NLP_2023/blob/main/6_DefiningFunctions.ipynb)|
+|7| Classes ⏰ |[class, method, member](https://github.com/20230212KIM/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb)|
+|8| Files 💾 |[txt, html](https://github.com/20230212KIM/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb)|
